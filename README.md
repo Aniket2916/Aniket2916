@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aniket2916
 - 👀 I’m interested in C, C++
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C, C++
 - 📫 How to reach me AniketKulkarni2916@gmail.com
 
